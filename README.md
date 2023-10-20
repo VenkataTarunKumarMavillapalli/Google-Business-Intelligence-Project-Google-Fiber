@@ -1,5 +1,18 @@
 # Google-Business-Intelligence-Project-Google-Fiber
 
+Foundation of Business Intelligence - Identifying the uses and benefits of data models, pipelines, data visualizations, and dashboards, Collaboration with team members, stakeholders, and users, as well as an understanding of their roles and priorities, Planning processes for a successful project.
+
+The Path to Insights: Data Models and Pipelines - Applying data modeling to organize data elements and how they relate to one another, Retrieving data from a data source using pipelines, such as ETL, Transforming data into a usable format to answer specific business questions, Designing data pipelines that automate business intelligence processes, Using data modeling to design data storage systems, including data warehouses, data marts and data lakes.
+
+Decisions, Decisions: Dashboards and Reports - Creating mockups to plan dashboards and facilitate feedback discussions, Building, maintaining, and refining dashboards, Including compelling data visualisations and dashboard insights in a presentation for stakeholders, Using dashboards to tell data-driven stories, answer questions, and solve problems
+
+Skills, Tools & Technologies: Data Modeling, Business Analysis, Bigquery, Sheets, Data Analysis, Data Pipelines ETL/ELT, Business Process, Tableau Software, Data Visualization(DataViz), Business Intelligence, SQL, Dashboarding and Reporting, KPI, Design Patterns, Database Schemas, Data storage systems, database and Pipeline optimisation.
+
+I have also completed 2 End-of-Course Projects which are Cyclist Scenario & Google Fiber Scenario :
+Learned how an actual project is done at the workplace, approaching a project using structured thinking by following specific steps in a specific order. Meeting notes was provided, understood the project background, stakeholders, team members, Project approvals and dependencies, project goals, the deliverables and metrics, measure success, asking right questions and other considerations, Organising tasks into milestones, main importantly created documents Stakeholder requirement document, Project requirement document, strategy document. Learned Google DataFlow but I have used BigQuery console created target tables for the final dashboard from the datasets provided. Used the target table created to design a BI viz that will address questions, started by creating a mockup, then made my charts, a dashboard, and a brief presentation that summarises the work I did on this project.
+
+
+
 Welcome to Google Fiber! 
 You are interviewing for a job with Google Fiber, which provides people and businesses with fiber optic internet. As part of the interview process, the Fiber customer service team has asked you to design a dashboard using fictional data. The position you are interviewing for is in the customer call center, where Fiber uses business intelligence to monitor and improve customer satisfaction.
 
